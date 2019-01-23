@@ -1,0 +1,4 @@
++New username generation
++Error reporter window
++Fixed bugs regarding email verification link
++Fixed crashes
