@@ -1,5 +1,3 @@
-+New username generation
-+Error reporter window
-+Fixed bugs regarding email verification link
-+Fixed crashes
-+Changelog window
++Fix even more crashes
++Added languages (hungarian, german, french, portuguese, russian, greek)
++Save settings
