@@ -1,3 +1,7 @@
-+Fix even more crashes
-+Added languages (hungarian, german, french, portuguese, russian, greek)
-+Save settings
++Added turkish, swedish
++Fixed some captcha problems
++Fixed captchasolutions
++Fixed settings not saving properly
++Fixed json save format
++Multithreading base
++Optimisations
