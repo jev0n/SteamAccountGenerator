@@ -1,3 +1,2 @@
-+Complete recode
-+RuCaptcha / 2Captcha
-+Multithreading support (make multiple accs at once)
++Fix timeout errors
++Fix crashing with 2Captcha/RuCaptcha
