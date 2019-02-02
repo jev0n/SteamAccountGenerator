@@ -1,7 +1,3 @@
-+Added turkish, swedish
-+Fixed some captcha problems
-+Fixed captchasolutions
-+Fixed settings not saving properly
-+Fixed json save format
-+Multithreading base
-+Optimisations
++Complete recode
++RuCaptcha / 2Captcha
++Multithreading support (make multiple accs at once)
