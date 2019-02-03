@@ -1,2 +1,4 @@
-+Fix timeout errors
-+Fix crashing with 2Captcha/RuCaptcha
++Fix crashes
++Decrease maximum thread count until Proxy support is implemented
++Improved overall stability
++New captcha api keys settings window
