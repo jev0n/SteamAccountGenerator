@@ -1,4 +1,3 @@
-+Fix crashes
-+Decrease maximum thread count until Proxy support is implemented
-+Improved overall stability
-+New captcha api keys settings window
++A shit ton of bug fixes
++Enabled patron features for everyone, since early access is over
+(Although it is still worth it to be a Patron :)
